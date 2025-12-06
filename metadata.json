@@ -1,0 +1,7 @@
+{
+  "name": "Fridge Friend: Zero-Waste Chef",
+  "description": "A smart kitchen assistant that turns your fridge contents into dinner plans instantly using AI vision and recipe generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
